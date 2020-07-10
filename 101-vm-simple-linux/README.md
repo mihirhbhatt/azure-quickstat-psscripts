@@ -28,7 +28,7 @@ I 💙 PS> $param = @{
 >> location = 'westus'
 >> adminUsername = 'sysadmin'
 >> authenticationType = 'password'
->> dnsLabelPrefix = 'patnayakuni1981'
+>> dnsLabelPrefix = 'Mihir0077'
 >> ubuntuOSVersion = '18.04-LTS'
 >> }
 
@@ -40,7 +40,7 @@ Supply values for the following parameters:
 (Type !? for Help.)
 adminPassword: *************
 Deployment is successful!
-HostName: patnayakuni1981.westus.cloudapp.azure.com
+HostName: fireleo.westus.cloudapp.azure.com
 ```
 
 Thank you.
