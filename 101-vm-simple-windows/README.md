@@ -24,7 +24,7 @@ I 💙 PS> $param = @{
 >> resourceGroupName = 'simple-rg'
 >> location = 'westus'
 >> adminUsername = 'sysadmin'
->> dnsLabelPrefix = 'patnayakuni1981'
+>> dnsLabelPrefix = 'Mihir0077'
 >> }
 
 I 💙 PS> .\Deploy-AzResources.ps1 @param
@@ -34,7 +34,7 @@ cmdlet Deploy-AzResources.ps1 at command pipeline position 1
 Supply values for the following parameters:
 adminPassword: *************
 Deployment is successful!
-HostName: patnayakuni1981.westus.cloudapp.azure.com
+HostName: fireleo.westus.cloudapp.azure.com
 ```
 
 Thank you.
